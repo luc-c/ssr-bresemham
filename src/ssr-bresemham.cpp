@@ -1,5 +1,5 @@
 #include "Arduino.h"
-#include "BresenhamTriacDriver.h"
+#include "ssr-bresemham.h"
 
 
 // this class implements Bresenham algorithm

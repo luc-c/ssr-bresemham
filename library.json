@@ -1,0 +1,23 @@
+{
+    "name": "ssr-bresemham",
+    "version": "1.0.0",
+    "description": "object to use module ssr-bresemham with an arduino",
+    "keywords": "ssr, zero crossing, bresemham, module",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/luc-c/ssr-bresemham.git"
+    },
+    "authors":
+    [
+      {
+        "name": "",
+        "email": "",
+        "url": "https://github.com/luc-c"
+      }
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/luc-c/ssr-bresemham",
+    "frameworks": "arduino",
+    "platforms": "*"
+  }
